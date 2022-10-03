@@ -20,7 +20,7 @@
         <label for="country">Country</label><br>
         <input type="text" name='country' id='country' required><br>
 
-        <label for="email">Email</label;><br>
+        <label for="email">Email</label><br>
         <input type='email' name='email' id='email' required><br>
 
         <label for="phone">Phone</label><br>
